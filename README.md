@@ -1,9 +1,17 @@
-# solana-copy-trading-bot
+<h1  align="center"> Solana Copy Trading Bot by SolVolume👽 </h1>
+SolVolume is the best AIO-bot which includes Solana copy-trading, Parser/Analyzer Wallets, Tracker Wallets, Solana Volume, Solana Bump, Solana Sniper, MEV-bot.
 
-<h1  align="center"> Solana Bot by SolVolume👽 </h1>
-SolVolume is the best AIO-bot which includes Solana Volume, Solana Bump, Solana copy-trading, Solana Sniper, MEV-bot
+![](files/SITE.png)
 
-![](files/SITEonPC.png)
+# Parser/Analyzer Wallets
+
+- Ability to parse migrated contracts.  
+- Ability to parse an unlimited number of wallets from an unlimited number of contracts.  
+- A vast number of filters (settings) for the parser.  
+- Automatic creation of an Excel table for monitoring.
+
+# Tracker Wallets
+- It is designed to track all transactions of wallets that you are copying, with a user-friendly interface and the most detailed information about each trade.
 
 # ABOUT
 ![](files/line.gif)
