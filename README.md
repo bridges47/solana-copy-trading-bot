@@ -4,14 +4,37 @@ SolVolume is the best AIO-bot which includes Solana copy-trading, Parser/Analyze
 ![](files/SITE.png)
 
 # Parser/Analyzer Wallets
+![](files/line.gif)
+## **Features:**
 
-- Ability to parse migrated contracts.  
-- Ability to parse an unlimited number of wallets from an unlimited number of contracts.  
-- A vast number of filters (settings) for the parser.  
-- Automatic creation of an Excel table for monitoring.
+*1* - **Ability to parse migrated contracts.**
 
+*2* - **Ability to parse an unlimited number of wallets from an unlimited number of contracts.**
+
+*3* - **A vast number of filters (settings) for the parser.**
+
+*4* - **Automatic creation of an Excel table for monitoring.**
+
+![excel](https://github.com/user-attachments/assets/4d70e408-13c4-479c-bd46-8e66e3479fac)
+- Max fast trades - maximum number of fast trades (transactions lasting less than 1 minute)  
+- Min % rockets - minimum number of trades closed at +100%  
+- Wal age - wallet creation time (from X to Y days)  
+- MCAP distribution - percentage of trades within a selected market cap range  
+- Disable Filters - disables filters, and the bot will send a file with all wallets, regardless of filter criteria  
+- Connected Wallets - the bot will log connected wallets involved in SOL transfers  
+- Sort by Winrate - the bot will sort wallets in the file by winrate/ROI, with top-performing wallets listed first  
+- Show buys - the bot will send files with token purchases linked to the parsed wallets  
+- Fast trades - percentage of trades lasting less than 1 minute (a negative sign for the wallet)  
+- Sold more than buy - number of tokens sold exceeds tokens bought, distorting real PNL and ROI  
+- Median ROI - median ROI  
+- % rockets - percentage of trades with over 100% profit  
+- duration avg - average trade duration
+
+*You can thoroughly analyze each trade by entering the token address on Photon and specifying the wallet of our trader. To return to the tab with all the wallets, simply click the "Back" button in the top right corner of the table.*
+![](files/line.gif)
 # Tracker Wallets
-- It is designed to track all transactions of wallets that you are copying, with a user-friendly interface and the most detailed information about each trade.
+![TRACKER_1](https://github.com/user-attachments/assets/438dfb40-eb66-49e1-8aaa-e0d6cf16e10d)
+- **It is designed to track all transactions of wallets that you are copying, with a user-friendly interface and the most detailed information about each trade.**
 
 # ABOUT
 ![](files/line.gif)
@@ -24,7 +47,7 @@ We've closely observed the shift in trading activity from Ethereum to Solana. Af
 ![](files/line.gif)
 
 # V1.2.7 Features
-![](files/logo.png)
+![SOLVOLUMEBOT](https://github.com/user-attachments/assets/7c2d9cd7-7f22-47cf-8656-928fbd2ddbab)
 1. `💎 Volume Bot` *creates natural trading activity for your token by allowing you to set SOL purchase ranges and delays between buys.*
 2. `🎯 Snipe Bot` *utilizes sub wallets for mass purchasing of existing tokens before Community Take Over (CTO) and monitors new tokens minted by specific wallets for quick acquisition.*
 3. `💲 Create Token` *flexible Token Bundler facilitates token launches on PUMP.FUN and Raydium, offering manual wallet allocation, dynamic SOL distribution, and sniper protection.*
