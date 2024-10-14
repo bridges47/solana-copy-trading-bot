@@ -36,6 +36,12 @@ SolVolume is the best AIO-bot which includes Solana copy-trading, Parser/Analyze
 ![TRACKER_1](https://github.com/user-attachments/assets/438dfb40-eb66-49e1-8aaa-e0d6cf16e10d)
 - **It is designed to track all transactions of wallets that you are copying, with a user-friendly interface and the most detailed information about each trade.**
 
+**Transaction Filters**
+
+- *Now you can select which transactions to receive! Include or exclude NFT, swap, transfer, or other transactions by simply clicking on the corresponding buttons!*
+
+![tracker](https://github.com/user-attachments/assets/dbd72fc5-faeb-49e9-b37c-03457ce34b45)
+
 # ABOUT
 ![](files/line.gif)
 
